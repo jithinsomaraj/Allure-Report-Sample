@@ -1,0 +1,139 @@
+{
+  "2f8c02681348286daf2d44e0c74d6bd6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89056186066bcf40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676262026971,
+        "stop" : 1676262031263,
+        "duration" : 4292
+      }
+    } ]
+  },
+  "8f958a7f98ff11f3728f1af55f440e79" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5ccdedd8badf327",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@href,'/company/projectList')]\"}\n  (Session info: chrome=110.0.5481.78)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'IN-LP-98', ip: '10.5.25.180', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.78, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\user\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 43fe65b21518bf55eb4de600a98a91b0\n*** Element info: {Using=xpath, value=//a[contains(@href,'/company/projectList')]}",
+      "time" : {
+        "start" : 1676262051163,
+        "stop" : 1676262051680,
+        "duration" : 517
+      }
+    } ]
+  },
+  "87e9348660e3395f3d50147d66d70202" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aade628b07b3784e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676262034520,
+        "stop" : 1676262049591,
+        "duration" : 15071
+      }
+    } ]
+  },
+  "3510ae7cd574234cf10107bff909e423" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bcfc5ecc560b6602",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676262018016,
+        "stop" : 1676262026823,
+        "duration" : 8807
+      }
+    } ]
+  },
+  "50d20b02cc1f376f102961c89ac54e40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fee3e5142433ae8",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@href,'/company/appliedprojectlist')]\"}\n  (Session info: chrome=110.0.5481.78)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'IN-LP-98', ip: '10.5.25.180', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.78, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\user\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 43fe65b21518bf55eb4de600a98a91b0\n*** Element info: {Using=xpath, value=//a[contains(@href,'/company/appliedprojectlist')]}",
+      "time" : {
+        "start" : 1676262052335,
+        "stop" : 1676262052859,
+        "duration" : 524
+      }
+    } ]
+  },
+  "c671d62655f6ae55231b5d081ee4ed3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72524f4941a1aa18",
+      "status" : "failed",
+      "statusDetails" : "Erro message  does not match expected [メールアドレスかパスワードが正しくありません7] but found [メールアドレスかパスワードが正しくありません]",
+      "time" : {
+        "start" : 1676262031280,
+        "stop" : 1676262034229,
+        "duration" : 2949
+      }
+    } ]
+  },
+  "8c7aaf0f14538111c21e9544f6b1f0e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ac0020ee2bb80cf",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(@href,'/company/transactionList')]\"}\n  (Session info: chrome=110.0.5481.78)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'IN-LP-98', ip: '10.5.25.180', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.78, chrome: {chromedriverVersion: 109.0.5414.74 (e7c5703604da..., userDataDir: C:\\Users\\user\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:53758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 43fe65b21518bf55eb4de600a98a91b0\n*** Element info: {Using=xpath, value=//a[contains(@href,'/company/transactionList')]}",
+      "time" : {
+        "start" : 1676262049992,
+        "stop" : 1676262050531,
+        "duration" : 539
+      }
+    } ]
+  }
+}

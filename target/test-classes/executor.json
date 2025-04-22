@@ -1,0 +1,10 @@
+{
+    "name": "Tester",
+    "type": "Testing",
+    "url": "https://dev-olens.aik-order.com/company/dashboard",
+    "buildOrder": 13,
+    "buildName": "Aik allure-report_deploy#01",
+    "buildUrl": "https://dev-olens.aik-order.com/company/dashboard",
+    "reportUrl": "https://dev-olens.aik-order.com/company/dashboard",
+    "reportName": "AIK allure report"
+  }
